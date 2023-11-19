@@ -14,4 +14,10 @@ This Python script converts PDF files to text (TXT) files in a line-by-line fash
    ```bash
    git clone https://github.com/YourUsername/YourRepository.git
    cd YourRepository
+
+2. Install the dependencies:
+
+   ```bash
+   pip install PyPDF2 
+
  
