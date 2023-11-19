@@ -1,2 +1,5 @@
-pdftest.pdf
-txtest.txt
+# Ignore PDF files
+*.pdf
+
+# Ignore text files
+*.txt
